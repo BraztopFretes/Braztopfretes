@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Braztop Fretes Brasília</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      color: #333;
+    }
+    header {
+      background-color: #004aad;
+      color: white;
+      padding: 40px 20px;
+    }
+    h1 {
+      margin: 0;
+    }
+    section {
+      padding: 30px 20px;
+    }
+    .btn-whatsapp {
+      display: inline-block;
+      background-color: #25D366;
+      color: white;
+      padding: 15px 25px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 18px;
+      margin-top: 20px;
+    }
+    footer {
+      background-color: #222;
+      color: white;
+      padding: 10px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Braztop Fretes</h1>
+    <p>Mudanças e Fretes em Brasília</p>
+  </header>
+
+  <section>
+    <h2>Serviços Rápidos e Confiáveis</h2>
+    <p>Atendemos toda Brasília com fretes e mudanças. Serviço seguro, pontual e com preço justo.</p>
+    <a class="btn-whatsapp" href="https://wa.me/5561996865558" target="_blank">Chamar no WhatsApp</a>
+  </section>
+
+  <footer>
+    © 2025 Braztop Fretes - Brasília | Contato: (61) 99686-5558
+  </footer>
+
+</body>
+</html>
